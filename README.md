@@ -1,5 +1,11 @@
 # S3 Get, Put and Delete 
 
+This project is a detached fork of Sam Meech-Ward's s3-get-put-and-delete GitHub repository. Get the link here: (https://www.sammeechward.com/storing-images-in-s3-from-node-server)
+
+Sam has a YouTube video titled "Storing Images in S3 from Node Server", (https://www.youtube.com/watch?v=eQAIojcArRY)
+
+AWS S3 is cloud storage and has a free tier for hobbyists and paid tiers for storing large amounts of data. This project uses the free tier to store photos. 
+
 Examples of how to upload, download and delete files from S3 bucket using [multer](https://www.npmjs.com/package/multer) and the [AWS SDK for JavaScript v3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/index.html) Node.js. 
 
 > Note:
